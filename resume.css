@@ -1,0 +1,542 @@
+body{
+    background-color: black;
+    font-family:"Roboto";
+    font-weight: 100px;
+}
+.navbar{
+    top:0%;
+    background-color: black;
+    left: 0%;
+    right: 0%;
+    z-index: 99;
+}
+#navbar-toggler-icon{
+    background-color: white;
+    color:white;
+    border-radius: 15px;
+} 
+.first{
+    width: 50%;
+    float:left;
+}
+.first-left img{
+width:50%;
+border-radius: 100px;
+margin-left: 200px;
+}
+
+.first_container{
+    margin-top: 100px;
+    margin-right: 150px;
+}
+.name{
+    margin-top: 20px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+}
+.summary{
+    margin-top: 20px;
+}
+.btn-container{
+    clear:both;
+}
+
+#second{
+    border-color:3px solid white;
+    margin-left: 5px;
+}
+.siree{
+    margin-left: 10px;
+}
+.navbar{
+    color:white;
+}
+.second-container{
+    padding-top: 80px;
+    margin-left: 30px;
+    padding-bottom: 60px;
+    z-index: 12;
+ 
+}
+.what{
+    padding-bottom:5px;
+  text-decoration:none;
+  border-bottom:3px solid #0d6efd;
+}
+.card{
+    background-color: black;
+    display:flex;
+    flex-direction: row;
+    margin-top: 30px;
+}
+.card-img {
+    width:20%;
+    border-radius: 100px;
+    margin-left: 30px;
+    margin-top: 30px;
+
+}
+.card-text{
+    width:60%
+}
+.fa-pen{
+    color:#0d6efd;
+    width:30%;
+}
+
+.small-container{
+    clear:both;
+    padding-top: 80px;
+    margin-left: 40px;
+    
+}
+.what-text{
+    padding-top: 40px;
+    padding-left: 30px;
+}
+.second{
+    width:50%;
+    float:left;
+}
+.fa-dumpster{
+
+ color:#0d6efd;
+    width:30%;
+}
+.fa-bullhorn
+{
+
+color:#0d6efd;
+   width:30%;
+}
+.fa-desktop{
+
+color:#0d6efd;
+   width:30%;
+}
+.sub-title{
+    padding-top: 10px;
+}
+.second-left card{
+    margin-top: 60px;
+}
+
+.main-title12{
+    margin-top: 65px;
+}
+.main-title23{
+    margin-top: 60px;
+
+}
+.third_container{
+    clear:both;
+    color:white;
+    margin-top: 160px;
+    padding-bottom: 60px;
+    
+
+}
+.third{
+    width:50%;
+    float:left;
+}
+.third-left{
+    margin-top: 80px;
+    padding-left: 80px;
+
+}
+.third-right img{
+ width:50%;
+ padding-left: 40px;
+ margin-left: 80px;
+ margin-top: 40px;
+}
+.second-right{
+    width:50%;
+} 
+.happy-clients{
+    clear:both;
+    width:100%;
+    background-color: black;
+    margin-top:60px;
+   
+ 
+   
+}
+
+.card-one{
+    width: 22%;
+    float:left;
+    border-radius:15px;
+    margin-left: 20px;
+    background-color: #333;
+    border-color: #444;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+}
+
+.card-one-one{
+    width: 30%;
+    float:left;
+    border-radius:15px;
+    margin-left: 20px;
+    background-color: #333;
+    border-color: #444;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+   
+}
+.fa-heart{
+    color:#0d6efd;
+    text-align: center;
+    margin-left: 120px;
+}
+.img-card{
+    margin-top: 20px;
+}
+.fa-star-of-life{
+    color:#0d6efd;
+    text-align: center;
+    margin-left: 120px;
+
+}
+.fa-mug-saucer{
+    color:#0d6efd;
+    text-align: center;
+    margin-left: 120px;
+
+}
+.fa-alarm-clock{
+    color:#0d6efd;
+    text-align: center;
+    margin-left: 120px;
+
+
+}
+.img-card-one img{
+    width:20%;
+    margin-left: 110px;
+    margin-top: 30px;
+}
+.img-card-two img{
+    width:13%;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+.img-card-three img{
+    width:25%;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.img-card-four img{
+    width:12%;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+.img-card-five img{
+    width:20%;
+    margin-left: 110px;
+    margin-top: 30px;
+}
+
+.img-card-six img{
+    width:20%;
+    margin-left: 110px;
+    margin-top: 30px;
+}
+
+.img-card-seven img{
+    width:18%;
+    margin-left: 110px;
+    margin-top: 30px;
+}
+
+.img-card-eight img{
+    width:20%;
+    margin-left: 110px;
+    margin-top: 30px;
+}
+.card-div-one{
+    background-color: #baa0cd;
+    margin-left: 60px;
+    border-radius: 15px;
+
+}
+.sixth-container{
+    width:100%;
+}
+.sixth{
+    width:30%;
+    float:left;
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+}
+
+.card-div-two{
+    background-color: #fe810b;
+    margin-left: 60px;
+    border-radius: 15px;
+    
+
+
+}
+.img-card-nine img{
+    width: 100%;
+}
+
+.img-card-ten img{
+    width: 100%;
+    height:38vh;
+}
+.img-card-eleven img{
+    width: 100%;
+    height:38vh;
+
+}
+#firstimage:hover{
+    width:200px;
+
+}
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px){
+    .first_container{
+        width:100%; 
+    }
+    .first{
+        width:90%;
+        float:left;
+    }
+    .first-left img{
+        margin-left: 25px;
+        width:90%;
+    }
+    .profile{
+        display:none;
+    }
+    .first-right{
+        margin-top: 60px;
+        margin-left: 25px;
+        font-size: 10px;
+        width:90%;
+    }
+    .name{
+        font-size:25px;
+        letter-spacing: 0px;
+        word-spacing: 0px;
+    }
+    .small-container{
+        margin-left: 5px;
+    }
+    .second{
+        width:100%;
+        float:left;
+    }
+    .card{
+        width:100%;
+    }
+    .card-left{
+        margin-left: 0px;
+    }
+    .third{
+        width:100%;
+        float:left;
+    }
+    .third-left{
+        margin-left: 0px;
+        width:100%;
+        margin-right: 30px;
+        position:relative;
+        left:-10%;
+    }
+    .main-title{
+        padding-top: 30px;
+    }
+    .sub-title{
+        padding-top: 30px;
+    }
+    .card-one{
+        width:90%;
+    }
+    .fa-heart{
+    color:#0d6efd;
+    text-align: center;
+    margin-left: 160px;
+}
+.img-card{
+    margin-top: 20px;
+}
+.fa-star-of-life{
+    color:#0d6efd;
+    text-align: center;
+    margin-left: 160px;
+
+}
+.fa-mug-saucer{
+    color:#0d6efd;
+    text-align: center;
+    margin-left: 160px;
+
+}
+.fa-alarm-clock{
+    color:#0d6efd;
+    text-align: center;
+    margin-left: 160px;
+
+
+}
+.img-card-one img{
+    width:20%;
+    margin-left:  132px;
+    margin-top: 30px;
+}
+.img-card-two img{
+    width:13%;
+    margin-left:  145px;
+    margin-top: 30px;
+}
+.img-card-three img{
+    width:25%;
+    margin-left:  132px;
+    margin-top: 30px;
+}
+.img-card-four img{
+    width:12%;
+    margin-left:  145px;
+    margin-top: 30px;
+}
+.img-card-five img{
+    width:20%;
+    margin-left:  132px;
+    margin-top: 30px;
+}
+
+.img-card-six img{
+    width:20%;
+    margin-left: 132px;
+    margin-top: 30px;
+}
+
+.img-card-seven img{
+    width:18%;
+    margin-left:  132px;
+    margin-top: 30px;
+}
+
+.img-card-eight img{
+    width:20%;
+    margin-left:  132px;
+    margin-top: 30px;
+}
+.card-one-one{
+    width:90%;
+}
+.img-card-ten img{
+    height:23vh;
+}
+.img-card-eleven img{
+    height:26vh;
+}
+ 
+
+}
+
+@media only screen and (max-width:1024px )and (min-width:600px){
+.first_container{
+    width:100%;
+}
+.first{
+    width: 40%;
+    float:left;
+}
+.first-left img{
+    margin-left: 55px;
+    width:90%;
+}
+.first-right{
+    margin-left: 80px;
+    width:45%;
+}
+.profile{
+    display:none;
+}
+.second{
+        width:100%;
+        float:left;
+    }
+    .card{
+        width:100%;
+    }
+    .card-left{
+        margin-left: 0px;
+    }
+    .second-right{
+        margin-left: 30px;
+    }
+.third_container{
+    width:100%;
+    margin-top: 30px;
+}
+.third{
+    width:100%;
+    float:left;
+}
+.third-left{
+    margin-left: 15px;
+    position: relative;
+    left:-10%;
+}
+.main-title{
+        padding-top: 30px;
+    }
+    .sub-title{
+        padding-top: 30px;
+    }
+
+    .card-one{
+        width:40%;
+    }
+    .fa-heart{
+    color:#0d6efd;
+    text-align: center;
+    margin-left: 140px;
+}
+.img-card{
+    margin-top: 20px;
+}
+.fa-star-of-life{
+    color:#0d6efd;
+    text-align: center;
+    margin-left: 140px;
+
+}
+.fa-mug-saucer{
+    color:#0d6efd;
+    text-align: center;
+    margin-left: 140px;
+
+}
+.fa-alarm-clock{
+    color:#0d6efd;
+    text-align: center;
+    margin-left: 140px;
+
+
+
+}
+.img-card-ten img{
+    height: 15vh;
+}
+.img-card-eleven img{
+    height: 15vh;
+}
+
+}
