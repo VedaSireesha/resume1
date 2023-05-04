@@ -348,25 +348,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     
     <div class="small-container">
         <h3 class="text-white what-text"><u class="what">Testimonials</u></h3>
@@ -462,6 +443,24 @@
           </div>
         </div>
       </section>
+
+      <button onclick="myFunction()">Try it</button>
+      <p id="demo" class="text-white"></p>
+      
+      <script>
+      function myFunction() {
+        let person = prompt("Please enter your name ");
+        if (person != null) {
+          document.getElementById("demo").innerHTML = "Hello " + person + "! How are you today?";
+        }
+        var personlength = person.length;
+        alert("You have written " + personlength + " characters and left with " + (20-personlength));
+      }
+    
+      
+      </script>
+      
+      
       <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script> </script>
 </body>
 </html>
