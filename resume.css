@@ -540,3 +540,23 @@ color:#0d6efd;
 }
 
 }
+
+
+/* TIP CALCULATOR */
+
+.container {
+    background-color: white;
+    width: 30%;
+    margin-top: 30px;
+  }
+  #totalAmount {
+    margin-top: 50px;
+  }
+  button {
+    margin-left: 80px;
+  }
+  .text-danger{
+      float:right;
+  }
+  
+  /* TIP CALCULATOR */
